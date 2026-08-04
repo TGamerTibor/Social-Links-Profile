@@ -28,20 +28,34 @@ body {
 .card {
   background-color: var(--Grey-800);
   border-radius: 15px;
-  padding: 1rem;
+  padding: 2rem;
   gap: 1rem;
   max-width: 400px;
   width: 100%;
+  max-height: 700px;
+  height: 100%;
   display: flex;
   flex-direction: column;
+  align-items: center;
   margin: 0 auto;
   border: 1.5px solid var(--Grey-500);
-  margin-bottom: 1rem;
 }
 .social-links {
   display: flex;
   gap: 1rem;
   flex-wrap: wrap;
+  flex-direction: column;
+  align-items: center;
+}
+.social-links a {
+  display: flex;
+  gap: 0.5rem;
+  color: var(--White);
+  text-decoration: none;
+  background-color: var(--Grey-700);
+  padding: 1rem 6rem;
+  border-radius: 10px;
+  width: 100%;
 }
 .profile {
   display: flex;
