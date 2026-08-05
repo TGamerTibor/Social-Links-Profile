@@ -21,15 +21,15 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Demo Desktop Screeshot:
 
-![WeatherIO Desktop Demo](/design/readme-images/desktop.png "Desktop Demo")
+![Social-Links Desktop Demo](/design/readme-images/desktop.png "Desktop Demo")
 
 ### Demo Mobile Screeshot:
 
-![WeatherIO Mobile Demo](/design/readme-images/mobile.png "mobile Demo") 
+![Social-Links Mobile Demo](/design/readme-images/mobile.png "mobile Demo") 
 
 ### Links
 
-- Live Site URL: [Live demo](https://qr-code-component-psi-green.vercel.app/)
+- Live Site URL: [Live demo](https://social-links-profile-blush-six.vercel.app/)
 
 ### Built with
 
